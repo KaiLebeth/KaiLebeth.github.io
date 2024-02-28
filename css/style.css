@@ -13,12 +13,12 @@ header {
     color: #ffffffc4;
     padding-top: 20px;
     min-height: 70px;
-    border-bottom: #0779e4 3px solid;
+    border-bottom: #0e18227c 3px solid;
 }
 
 header h1, header p {
     margin: 0;
-    padding: 0 20px;
+    padding: 0 40px;
 }
 
 section {
@@ -27,7 +27,7 @@ section {
 
 footer {
     background-color: #333;
-    color: #fff;
+    color: #803434;
     text-align: center;
     padding: 10px;
     position: fixed;
